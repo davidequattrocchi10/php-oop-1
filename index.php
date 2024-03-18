@@ -13,7 +13,6 @@
 </head>
 
 <body>
-
     <!-- Include the header -->
     <?php include_once __DIR__ . '/Partials/header.php'; ?>
 
